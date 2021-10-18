@@ -18,6 +18,6 @@ def Q3_B():
 
 
 if __name__ == '__main__':
-
+ Q3_B()
 
 
