@@ -58,6 +58,7 @@ def Q2_g(figure, num):
 
 
 if __name__ == '__main__':
+    print("Elad is the King")
     plt.figure(0)
     plt.title("x = 20")
     # Q2.b
